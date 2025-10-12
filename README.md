@@ -18,7 +18,7 @@ Markmiðið með verkefninu var að nota það sem að ég lærði í áfanganum
 
 Hægt er að prófa vefkefnið hér:
 
-[https://aronfd07.github.io/Verkefni_6_Vidmodsforritun/](https://aronfd07.github.io/Verkefni_6_Vidmodsforritun/)
+[https://aronfd07.github.io/Verkefni6_Vidmodsforritun](https://aronfd07.github.io/Verkefni6_Vidmodsforritun)
 
 ---
 
