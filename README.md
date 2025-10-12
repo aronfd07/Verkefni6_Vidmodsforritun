@@ -34,6 +34,13 @@ Hægt er að prófa vefkefnið hér:
 
 ## Myndir og Myndband
 
+**Skjáskot af vefsíðu:**
+
+![Skjáskot 1](https://raw.githubusercontent.com/aronfd07/Verkefni_6_Vidmodsforritun/main/image_2025-10-12_233334752.png)
+![Skjáskot 2](https://raw.githubusercontent.com/aronfd07/Verkefni_6_Vidmodsforritun/main/image_2025-10-12_233411294.png)
+
+## Myndir og Myndband
+
 **Myndband af notkun (Youtube):**
 
 [![Myndband af verkefninu](https://img.youtube.com/vi/RqOJxQKZ9W8/0.jpg)](https://youtu.be/RqOJxQKZ9W8)
