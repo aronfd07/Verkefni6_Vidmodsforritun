@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verkefni 6 - Hand Gesture Detection</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Verkefni 6 - Hand teikning</h1>
+            <p>Teiknaðu hring eða þríhyrning með fingrinum.</p>
+        </header>
+
+        <section class="camera-section-main">
+            <div class="video-container">
+                <video id="input_video" class="input_video" autoplay muted playsinline></video>
+                <canvas id="output_canvas" class="output_canvas"></canvas>
+
+                <div class="drawing-container">
+                    <canvas id="drawingCanvas" class="drawing_canvas"></canvas>
+                    <canvas id="effectsCanvas" class="effects_canvas"></canvas>
+                </div>
+            </div>
+            
+            <div class="landmarks-info">
+                <div class="landmark-status" id="handStatus">
+                    <span class="status-indicator" id="statusIndicator"></span>
+                    <span id="statusText">No hands detected</span>
+                </div>
+            </div>
+        </section>
+
+        <div class="instructions">
+            <h3>Leiðbeiningar:</h3>
+            <ul>
+                <li>Notaðu vísifingur til að teikna á skjáinn.</li>
+                <li>Teygðu út þumalputta til að gera hlé á teikningu eða byrja á nýju formi.</li>
+                <li>Settu þumalputtann aftur niður til að halda áfram að teikna.</li>
+            </ul>
+        </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>
