@@ -36,8 +36,8 @@ Hægt er að prófa vefkefnið hér:
 
 **Skjáskot af vefsíðu:**
 
-![Skjáskot 1](https://raw.githubusercontent.com/aronfd07/Verkefni_6_Vidmodsforritun/main/image_2025-10-12_233334752.png)
-![Skjáskot 2](https://raw.githubusercontent.com/aronfd07/Verkefni_6_Vidmodsforritun/main/image_2025-10-12_233411294.png)
+![Skjáskot 1](https://raw.githubusercontent.com/aronfd07/Verkefni6_Vidmodsforritun/main/image_2025-10-12_233334752.png)
+![Skjáskot 2](https://raw.githubusercontent.com/aronfd07/Verkefni6_Vidmodsforritun/main/image_2025-10-12_233411294.png)
 
 ## Myndir og Myndband
 
